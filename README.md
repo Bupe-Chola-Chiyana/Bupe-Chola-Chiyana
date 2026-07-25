@@ -1,108 +1,85 @@
-<h1 align="center">Bupe Chola Chiyana</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer • Systems Design • AI Integration</strong><br/>
-  <em>Building technology for sustainable development and inclusive digital access</em>
-</p>
+# Hi, I'm Bupe Chola Chiyana 👋
+### Software Engineer | Builder | Lusaka, Zambia 🇿🇲
 
----
+<a href="https://www.linkedin.com/in/bupe-chola-chiyana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:bupechiyana15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Bupe-Chola-Chiyana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-## About
-
-I am a Software Engineering student focused on designing and building **scalable, impact-driven systems** that address real-world challenges.
-
-My work sits at the intersection of:
-- Software engineering
-- Artificial intelligence
-- Sustainable development
-
-I am particularly interested in how technology can be designed for **low-resource environments**, ensuring accessibility, efficiency, and long-term impact across underserved communities.
+</div>
 
 ---
 
-## Focus Areas
+## The Pitch
 
-- Mobile-first systems for emerging markets  
-- AI-assisted decision systems (on-device and lightweight models)  
-- Offline-first architectures for low-connectivity environments  
-- Scalable backend systems and API design  
-- Technology aligned with Sustainable Development Goals (SDGs)  
+> **I take software engineering fundamentals and point them at real problems** — sustainable tech, community education, and media systems that actually have to work under a deadline, not just in a demo.
 
----
+If you're the investor / recruiter / hiring panel: here's my 60 seconds.
 
-## Technical Competencies
-
-### Languages
-Java • Kotlin • Python • C++ • C# • JavaScript • TypeScript  
-
-### Frontend
-React • Vite • TailwindCSS • HTML5 • CSS3  
-
-### Mobile Development
-Android (Java/Kotlin) • React Native  
-
-### Backend & APIs
-Node.js • Express.js • Django • Firebase  
-
-### Databases
-MongoDB • PostgreSQL • Supabase • Firebase  
-
-### AI & Machine Learning
-TensorFlow Lite • Computer Vision • Lightweight ML Models  
-
-### Engineering Practices
-System Design • Agile/Scrum • UML • Testing • CI/CD  
+I'm graduating with a **B.Eng in Software Engineering** (Zambia University College of Technology, **2 Oct 2026**), and I've spent the years leading up to that graduation *not waiting for the degree to start working*. I've been in production environments — supporting real R&D at a bio-innovation company, running content operations for an international youth model, and teaching programming to students who'd never touched a compiler. That's the pitch: **I don't need a runway. I'm already airborne.**
 
 ---
 
-## Selected Work
+## Traction
 
-### STEM eLearning Platform (Zambia)
-A full-stack platform designed to deliver **accessible education**.
-
-### Career Guidance AI System
-A lightweight AI-driven system that analyzes user input and provides **data-informed academic and career pathways**.
-
-
-
----
-
-## Research and Development Interests
-
-- On-device AI for low-spec hardware environments (≤ 2GB RAM)  
-- Distributed and resilient system architectures  
-- AI in education and human capital development  
-- Digital infrastructure for emerging economies  
+| What | Where | Proof it wasn't just theory |
+|---|---|---|
+| 🔧 Technical Advisor | Otech Bioinnovation Company | Supported live software + sustainable-tech R&D, not a classroom project |
+| 📣 Media & Marketing Lead | Emerge Zambia — UN Model | Own content and campaign timelines across platforms, on schedule, every time |
+| 🎓 Programming Tutor | Eminic Tuition Centre | Took students from zero to functioning code — the ultimate debugging exercise: explaining your own logic to someone else |
+| 📜 27+ certifications | Google, ALX, UNICEF, Tony Elumelu Foundation, and more | Not padding — a pattern of finishing what I start |
 
 ---
 
-## Leadership and Engagement
+## Tech Stack
 
-- Host and moderator for discussions on Artificial Intelligence and Sustainable Development  
-- Contributor to youth-focused digital platforms addressing access and opportunity gaps  
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## Collaboration
-
-Open to collaborations in:
-- Education technology (EdTech)  
-- AI for social impact  
-- Digital public infrastructure  
-- Open-source systems addressing sustainable development  
+</div>
 
 ---
 
-## Contact
+## 📈 Currently
 
-Email: bupechiyana15@gmail.com  
-LinkedIn: https://www.linkedin.com/in/bupe-chola-chiyana/  
-GitHub: https://github.com/bupechiyana  
+- Looking for a **Software Engineering / IT role** where I can build things people actually depend on
+- Sharpening skills in **data analysis** and **AI-assisted development**
+- Open to conversations about sustainable tech, civic tech, or anything that ships
 
 ---
 
-<p align="center">
-  <em>Designing systems that are scalable, inclusive, and built for long-term impact.</em>
-</p>
+## The Ask
+
+I'm not looking for a place to sit. I'm looking for a team that's building something with real stakes — where a bug means something breaks for someone, not just for a grade.
+
+If that's your team: my inbox is open.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bupe-Chola-Chiyana&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bupe-Chola-Chiyana&hide_border=true" width="48%" />
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Talk
+
+**bupechiyana15@gmail.com** • **+260 976 925 315** • **Lusaka, Zambia**
+
+*Thanks for scrolling this far. That's more attention than most pitches get — I won't waste it.*
+
+</div>
